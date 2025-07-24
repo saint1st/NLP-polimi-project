@@ -5,6 +5,8 @@ This project was developed for the **Natural Language Processing** course at
 
 In this assignment, we explored the **RAG Dataset 12000** from Hugging Face, containing 12,000 question–answer pairs with accompanying context. The answers were automatically generated using GPT-4. We applied various NLP techniques ranging from exploratory analysis to advanced transformer-based modeling.
 
+- 📂 [Main GitHub Repository](https://github.com/SAFUANlip/NLP_project/tree/main)
+
 ---
 ## 📊 Dataset Overview
 
