@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Project Banner" width="50%"/>
+  <img src="banner.png" alt="Project Banner" width="100%"/>
 </p>
 
 ## Retrieval-Augmented Generation (RAG) Dataset Analysis
