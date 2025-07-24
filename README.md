@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vis/banner.png" alt="Project Banner" width="100%"/>
+  <img src="banner.png" alt="Project Banner" width="100%"/>
 </p>
 # Retrieval-Augmented Generation (RAG) Dataset Analysis
 
@@ -101,6 +101,8 @@ Successfully adapted FLAN-T5 to generate concise, relevant summaries for QA cont
 ---
 
 ## 🧑‍🏫 Supervision
+
+<img src="polimi.png" alt="Politecnico di Milano" width="300" align="right"/>
 
 This project was completed as part of the **Natural Language Processing** course  
 at **Politecnico di Milano**, Department of Electronics, Information and Bioengineering (DEIB).
