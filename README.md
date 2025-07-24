@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="Project Banner" width="100%"/>
+  <img src="banner.png" alt="Project Banner" width="50%"/>
 </p>
-# Retrieval-Augmented Generation (RAG) Dataset Analysis
+
+## Retrieval-Augmented Generation (RAG) Dataset Analysis
 
 This project was developed for the **Natural Language Processing** course at  
 **Politecnico di Milano (PoliMi)** – Spring Semester, 2025.
